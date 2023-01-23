@@ -1,4 +1,4 @@
-In this project, I began practicing using the interpreter, printing text and variables, and indexing and slicing strings in Python.
+In this project, I learned how to use the interpreter, printing text & variables, and indexing and slicing strings in Python.
 
 Function Prototypes 💾
 Prototypes for functions written in this project:
